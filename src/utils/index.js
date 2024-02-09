@@ -1,0 +1,1 @@
+export const valPlusOne = (val) => val + 1;
